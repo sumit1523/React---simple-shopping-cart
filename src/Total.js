@@ -23,7 +23,6 @@ class Total extends Component {
                     <span className="col-6">tota inc tax:</span>
                     <span className="col-6 text-right">₹{totalIncTax}</span>
                 </h3>
-
             </div>
         );
     }
